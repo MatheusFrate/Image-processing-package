@@ -1,0 +1,4 @@
+build/
+dist/
+image_processing_Mfrate.egg-info/
+venv/
